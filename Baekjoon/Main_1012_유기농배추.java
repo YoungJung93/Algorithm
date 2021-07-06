@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main_1012_유기농배추 {
+public class Main_1012_?�기?�배�?{
 	static int[][] map;
 	static int N, M;
 	static int[] dr = {-1, 1, 0, 0};
@@ -15,7 +15,7 @@ public class Main_1012_유기농배추 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int t = Integer.parseInt(br.readLine());
-		for(int i=1; i<=t; ++i) {
+		for(int i=1; i<=t; ++i) { 
 			StringTokenizer st = new StringTokenizer(br.readLine());
 			M = Integer.parseInt(st.nextToken());
 			N = Integer.parseInt(st.nextToken());
