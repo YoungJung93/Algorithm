@@ -1,4 +1,4 @@
-package problem;
+package Problem;
 
 import java.util.LinkedList;
 import java.util.List;
