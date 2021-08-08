@@ -17,6 +17,7 @@ public class Main_15591_MooTube_Silver {
 		public Node(int tar, int usado) {
 			this.no = tar; this.usado = usado;
 		}
+		@Override
 		public int compareTo(Node n) {
 			return Integer.compare(this.usado, n.usado);
 		}
